@@ -11,7 +11,7 @@
     border-radius: 10px;
     cursor: pointer;
     -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0); 
-    box-shadow: 0px 0px 15px -0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -0px rgba(190, 189, 189, 0.75);
 }
 
 .featuredTitle{
@@ -48,5 +48,4 @@
 .featuredSub{
     font-size: 15px;
     color: gray;
-
 }
