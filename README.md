@@ -8,4 +8,4 @@
 - react-router-dom: v.5.2.0 -> v6대 Switch 사용불가로 v5.2.0으로 다운그레이
 
 ## 구동방법 
-- 터미널에서 `yarn start` 혹은 `npm start` 입력
+- 해당 프로젝트 디렉토리의 터미널에서 `yarn start` 혹은 `npm start` 입력
