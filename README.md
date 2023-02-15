@@ -1,6 +1,7 @@
 # lama_admin_dashboard
 
 해당 대시보드 실습은 React로 진행 
+- 클론코딩 실습 출처: [React Admin Dashboard Tutorial - React Admin Panel Design Course for Beginners](https://www.youtube.com/watch?v=aTPkos3LKi8)
 
 ## 프로젝트 생성
 - `npm create-react-app .`
